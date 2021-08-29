@@ -132,8 +132,7 @@ last_modified_at: 2021-08-29
       Debug.Log("플레이어 데이터를 해제 하였습니다")
   }
   ```
-<div class="notice--primary" markdown="1">
-**<u>주의!</u>** 개인 공부용 블로그 이므로, 틀린사항이 있을수 있습니다😅
-</div>
+🌝 **<u>공지 사항</u>** 지각하지 말고 준비물 챙겨오세요!
+{: .notice--primary}
 
 
