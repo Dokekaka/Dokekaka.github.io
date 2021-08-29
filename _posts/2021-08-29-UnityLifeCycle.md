@@ -2,6 +2,8 @@
 title:  "유니티 Life Cycle"
 excerpt: "유니티 Life Cycle에 대해 알아보자~ "
 
+classed: wide
+
 categories:
   - Unity
 tags:
